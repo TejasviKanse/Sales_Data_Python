@@ -1,1 +1,1 @@
-# Sales_Data_Python
+# Electronic Equipment Sale data 
